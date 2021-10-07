@@ -1,0 +1,14 @@
+uuid: 0cf76a7b-fad4-4939-9b36-7ada9a205291
+name: 'Umami Food Magazine'
+mail: test@test.test
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
