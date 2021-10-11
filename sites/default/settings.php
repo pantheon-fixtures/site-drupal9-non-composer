@@ -6,6 +6,11 @@
 $settings['container_yamls'][] = __DIR__ . '/services.yml';
 
 /**
+ * Site-level customization A.
+ */
+$a = 'test';
+
+/**
  * Include the Pantheon-specific settings file.
  *
  * n.b. The settings.pantheon.php file makes some changes
@@ -23,3 +28,8 @@ $local_settings = __DIR__ . "/settings.local.php";
 if (file_exists($local_settings)) {
   include $local_settings;
 }
+
+/**
+ * Site-level customization B.
+ */
+$b = 'test';
