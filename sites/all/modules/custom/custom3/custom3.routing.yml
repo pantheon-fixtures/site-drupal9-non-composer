@@ -1,7 +1,7 @@
-custom2.page:
-  path: '/custom2/page'
+custom3.page:
+  path: '/custom3/page'
   defaults:
     _controller: '\Drupal\custom1\Controller\CustomModuleController::render'
-    _title: 'Custom2 page'
+    _title: 'Custom3 page'
   requirements:
     _permission: 'access content'
