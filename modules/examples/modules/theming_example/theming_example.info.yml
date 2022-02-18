@@ -1,10 +1,8 @@
-name: 'Sample Description Template Test'
+name: Theming example
 type: module
-description: 'Support module for testing the DescriptionTemplateTrait.'
-package: Testing
+description: An example module showing how to use theming.
+package: Example modules
 core_version_requirement: ^8.7.7 || ^9
-dependencies:
-  - examples:examples
 
 # Information added by Drupal.org packaging script on 2021-10-07
 version: '3.0.3'
